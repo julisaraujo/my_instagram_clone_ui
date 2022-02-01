@@ -1,0 +1,66 @@
+[
+  {
+    "user": "viuvanegra",
+    "picture": "assets/pictures/viuvanegra.jpeg",
+    "post": "assets/pictures/viuvanegra_post.jpg",
+    "place": "DETRAN - AM",
+    "subtitle": "Buscando fazer a legalização da nave dos Vingadores"
+
+  },
+  {
+    "user": "homemdeferro",
+    "picture": "assets/pictures/homemdeferro.jpg",
+    "post": "assets/pictures/homemdeferro_post.jpg",
+    "place": "Feirinha do Parque 10",
+    "subtitle": "Pão com tucumã, bolo de macaxeira e suco de cupuaçu com a galera"
+  },
+  {
+    "user": "homemaranha",
+    "picture": "assets/pictures/homemaranha.jpg",
+    "post": "assets/pictures/homemaranha_post.jpg",
+    "place": "Djalma Batista",
+    "subtitle": "Esperando o 422 com a MJ ❤"
+  },
+  {
+    "user": "doutorestranho",
+    "picture": "assets/pictures/doutorestranho.jpg",
+    "post": "assets/pictures/doutorestranho_post.jpg",
+    "place": "Teatro Amazonas",
+    "subtitle": "Dia de apresentação teatral no Festival Cultural"
+  },
+  {
+    "user": "capitaoamerica",
+    "picture": "assets/pictures/capitaoamerica.jpg",
+    "post": "assets/pictures/capitaoamerica_post.jpg",
+    "place": "Museu da Amazônia - MUSA",
+    "subtitle": "Quem chegar primeiro na torre ganha..."
+  },
+  {
+    "user": "gaviaoarqueiro",
+    "picture": "assets/pictures/gaviaoarqueiro.jpg",
+    "post": "assets/pictures/gaviaoarqueiro_post.jpeg",
+    "place": "Ponta Negra",
+    "subtitle": "#pordosol"
+  },
+  {
+    "user": "capitamarvel",
+    "picture": "assets/pictures/capitamarvel.png",
+    "post": "assets/pictures/capitamarvel_post.jpg",
+    "place": "Diamond",
+    "subtitle": "#formatura"
+  },
+  {
+    "user": "hulk",
+    "picture": "assets/pictures/hulk.jpg",
+    "post": "assets/pictures/hulk_post.jpeg",
+    "place": "Ponte Rio Negro",
+    "subtitle": "Manifestção. Ponte totalmente interditada"
+  },
+  {
+    "user": "thor",
+    "picture": "assets/pictures/thor.jpg",
+    "post": "assets/pictures/thor_post.jpeg",
+    "place": "Constantino Nery",
+    "subtitle": "#tbt"
+  }
+]

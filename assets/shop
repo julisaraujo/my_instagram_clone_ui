@@ -1,0 +1,42 @@
+[
+  {
+    "picture": "assets/pictures/shop/colar_doutor.jpg",
+    "name": "Colar Doutor Estranho",
+    "price": "53,40"
+  },
+  {
+    "picture": "assets/pictures/shop/escudo_capitao.jpg",
+    "name": "Escudo Capitão América",
+    "price": "100,00"
+  },
+  {
+    "picture": "assets/pictures/shop/manopla_thanos.jpg",
+    "name": "Manopla Thanos",
+    "price": "15,00"
+  },
+  {
+    "picture": "assets/pictures/shop/martelo_thor.jpg",
+    "name": "Martelo Thor (que é do Capitão América também)",
+    "price": "70,50"
+  },
+  {
+    "picture": "assets/pictures/shop/miniatura_gaviao.jpg",
+    "name": "Miniatura Gavião Arqueiro",
+    "price": "25,90"
+  },
+  {
+    "picture": "assets/pictures/shop/miniatura_homemdeferro.jpg",
+    "name": "Miniatura Homem de Ferro",
+    "price": "149,90"
+  },
+  {
+    "picture": "assets/pictures/shop/miniatura_viuvanegra.jpg",
+    "name": "Miniatura Viúva Negra",
+    "price": "199,90"
+  },
+  {
+    "picture": "assets/pictures/shop/roupa_hulk.jpg",
+    "name": "Roupa Hulk",
+    "price": "34,90"
+  }
+]
